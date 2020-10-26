@@ -9,8 +9,11 @@ export default {
 	onHide: function() {
 		console.log('App Hide');
 		console.log("new");
+<<<<<<< HEAD
 		console.log("new1");
 		console.log("new2 for zlearn");
+		console.log("new1 for eason");
+		console.log("本地变更到远程");
 	}
 };
 </script>
