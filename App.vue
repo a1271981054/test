@@ -9,7 +9,7 @@ export default {
 	onHide: function() {
 		console.log('App Hide');
 		console.log("new");
-		console.log("new1");
+		console.log("new1 for eason");
 	}
 };
 </script>
