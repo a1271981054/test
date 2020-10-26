@@ -10,7 +10,7 @@ export default {
 		console.log('App Hide');
 		console.log("new");
 		console.log("new1");
-		console.log("new2");
+		console.log("new2 for zlearn");
 	}
 };
 </script>
