@@ -14,6 +14,7 @@ export default {
 		console.log("new2 for zlearn");
 		console.log("new1 for eason");
 		console.log("本地变更到远程");
+		console.log("从远程拉去一个仓库到本地")
 	}
 };
 </script>
